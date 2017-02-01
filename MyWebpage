@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<div id="header">
+			<div id="navbar">
+				<ul>
+          <li><a href="My Webpage">About Me</a></li>
+          <li><a href="Plans For World Domination">Plans For World Domination</a></li>
+					<li><a href="Contact">Contact</a></li>
+        </ul>
+			</div>
+			<h2>About Me</h2>
+		</div>
+		<div id="left">
+		<img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_1140.JPG"/>
+		<p>My name is Heather Gloria, I am a current student at <a href="http://www.galvanize.com/?utm_source=google&utm_medium=cpc&utm_campaign=denver-brand&utm_content=search&utm_term=galvanize&gclid=Cj0KEQiAk5zEBRD9lfno2dek0tsBEiQAWVKyuA-yAaVHnMFPjXnJ0eTXji_c277n82eukPvkjLtDeqUaAgnw8P8HAQ">Galvanize</a> in Boulder,
+      I grew up in the Arvada Colorado. Although I do not have any human children
+      I have three fur babies; Tyler, Oakley, and Valor.  I have been a vegatarian
+      for over seven years.  I have been a full time Lyft driver for over a yeaar and a half
+      and before that I was a server at several different restaunts. When I'm
+      not working I try to go hiking as often as I can with my dogs, I have even
+      tried to pick up rock climbing however I have not beenable to go in quite a while.</p>
+		</div>
+		<div id="right">
+		<table>
+			<th colspan="3">My Fur Babies</th>
+			<tr>
+				<td><img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_2705.JPG"/></td>
+				<td><img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_2417.JPG"/></td>
+				<td><img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_2873.JPG"/></td>
+			</tr>
+			<tr>
+				<td><img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/resources/modelresources/104/76/hL%25ASWkfTgejV9EagCRmpg/IMG_2891.jpg"/></td>
+				<td><img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_2623.JPG"/></td>
+				<td><img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_2163.JPG"/></td>
+			</tr>
+			<tr>
+				<td><img id="bottom_left" src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_0680.JPG"/></td>
+				<td><img src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_2436.JPG"></td>
+				<td><img id="bottom_right" src="file:///Users/heathergloria/Pictures/Photos%20Library.photoslibrary/Masters/2017/01/24/20170124-205221/IMG_2451.JPG"/></td>
+			</tr>
+		</table>
+		</div>
+		</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="PFWD.css"/>
+		<title>Result</title>
+    <meta charset="utf-8">
+    <title>Plans For World Domination</title>
+  </head>
+  <body>
+    <div id="header">
+      <div id="navbar">
+        <ul>
+          <li><a href="My Webpage">About Me</a></li>
+          <li><a href="Plans For World Domination">Plans for World Domination</a></li>
+          <li><a href="Contact">Contact</a></li>
+        </ul>
+      </div>
+      <h2>Plans For World Domination</h2>
+    </div>
+    <p>When I graduate from Galvanize I plan to use my new knowledge to take
+      over the world and build an application that when used makes everyone my
+      slave HA HA HA!!! just kidding.... Really my goal is to just find a job as
+      soon as I can out of the program, I would love to work for some sort of
+      enviromental company, but that is the extent of my planning.</p>
+
+      <img src="https://media.giphy.com/media/VspTn3CPKAHoA/giphy.gif"/>
+  </body>
+
+</html>
